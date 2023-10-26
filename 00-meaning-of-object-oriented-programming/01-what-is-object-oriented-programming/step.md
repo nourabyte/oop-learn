@@ -1,7 +1,9 @@
 # Step 01: What is object oriented programming
+  > OOP is that it helps to organize your code in a logical and modular way.
 
 ## Concept
-In computer science, object-oriented programming **OOP** is a programming paradigm that revolves around the concepts of `classes` and `objects`, it's used to `structure` software programs into simple, reusable pieces of code known as classes. These classes serve as blueprints for creating individual instances of objects.
+In computer science, object-oriented programming **OOP** is a programming paradigm that revolves around the concepts of `classes` and `objects`, it's used to `structure` software programs into simple, reusable pieces of code known as classes. These classes present as blueprints or template for creating individual instances of objects.
+
 ## Example
 ```java
 //class creation
@@ -24,5 +26,4 @@ System.out.println(Obj1.y);
 
 ## Practice
 
-1- 
-2- create object return number 9.
+1- create object return number 9.
