@@ -2,7 +2,8 @@
   > OOP is that it helps to organize your code in a logical and modular way.
 
 ## Concept
-In computer science, object-oriented programming **OOP** is a programming paradigm that revolves around the concepts of `classes` and `objects`, it's used to `structure` software programs into simple, reusable pieces of code known as classes. These classes present as blueprints or template for creating individual instances of objects.
+In computer science, object-oriented programming **OOP** is a programming paradigm that revolves around the concepts of `classes` and `objects`, it's used to `structure` software programs into simple, reusable pieces of code known as classes.
+These classes present as blueprints or template for creating individual instances of objects.
 
 ## Example
 ```java
