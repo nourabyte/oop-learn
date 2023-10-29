@@ -4,23 +4,17 @@
 ## Concept
 `OOP` or **Object-oriented programming** is a programming methodology that revolves around the concepts of `class` and `object`. It is used to structure software programs into **simple**, **reusable** pieces of code known as **classes**. These classes serve as **blueprints** or **templates** for creating individual **instances** of **objects**.
 
-## Example****
+## Example
 ```java
-//class creation
-
+/* 1. Create new class. */
 public class Number {
+   public int value = 10;
 
-int y = 10;
-
-public static void main(String[] args) {
-
-//object creation
-
-Number Obj1 = new Number(); 
-
-System.out.println(Obj1.y);
-
-}
+   public static void main(String[] args) {
+      /* 2. Create new object */
+      Number firstNumber = new Number(); 
+      System.out.println(firstNumber.value);
+   }
 }
 ```
 
