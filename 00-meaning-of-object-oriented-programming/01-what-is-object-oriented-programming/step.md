@@ -20,4 +20,4 @@ public class Number {
 
 ## Practice
 
-1- After you understanding the previous example, try to creating an object that returns the number 9.
+1- Create a new object, based on previous example, that return number 9.
