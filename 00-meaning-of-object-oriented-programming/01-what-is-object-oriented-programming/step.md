@@ -2,9 +2,9 @@
   > OOP is that it helps to organize your code in a logical and modular way.
 
 ## Concept
-Object-oriented programming (OOP) is a programming methodology that revolves around the concepts of `classes` and `objects`. It is used to structure software programs into simple, reusable pieces of code known as classes. These classes serve as blueprints or templates for creating individual instances of objects.
+`OOP` or **Object-oriented programming** is a programming methodology that revolves around the concepts of `class` and `object`. It is used to structure software programs into **simple**, **reusable** pieces of code known as **classes**. These classes serve as **blueprints** or **templates** for creating individual **instances** of **objects**.
 
-## Example
+## Example****
 ```java
 //class creation
 
