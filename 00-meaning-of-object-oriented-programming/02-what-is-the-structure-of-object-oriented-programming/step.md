@@ -6,7 +6,7 @@ how we can implement in **object oriented**?
 
 ## Concept
 
-So in the previous scenario, we need a class represent all students beacuse the **class** is 
+So in the previous scenario, we need a **class** represent all students beacuse the **class** is 
 >blueprint/template that describes the details of an objects.
 
 each student has unique attribute values
