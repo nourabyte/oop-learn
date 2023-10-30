@@ -1,6 +1,6 @@
 # Step 02: What is an object in oop
 
-imagine you are a student, you have an `Attribute` like student ID, name and courses and `action`like adding course, deleting course, and each students have same attributes but unique identity.
+Imagine you are a student, you have an `Attribute` like student ID, name and courses and `action`like adding course, deleting course, and each students have same attributes but unique identity.
 
 ## Concept
 
