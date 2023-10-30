@@ -1,4 +1,4 @@
-# Step 01: What is an object oriented programming
+# Step 01: What Is An Object Oriented Programming
   > OOP is that it helps to organize your code in a logical and modular way.
 
 ## Concept
