@@ -20,4 +20,5 @@ public class Number {
 
 ## Practice
 
-1- Create a new value secondNumber, based on previous example, that return number 9.
+1. Create a new value secondNumber, based on previous example, that return number 9.
+2. Based on the previous example, create a new object called secondNumber that has a value of 9.
