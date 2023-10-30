@@ -1,18 +1,22 @@
-# Step 02: What is the structure of object oriented programming
+# Step 02: What is an object in oop
 
-imagine you are a student, you have an `Attribute` like student ID, name and courses and `action(method)`like adding course ,deleting course and searching, and each students have same information.
-
-how we can implement in **object oriented**?
+imagine you are a student, you have an `Attribute` like student ID, name and courses and `action`like adding course ,deleting course and searching, and each students have same attributes but unique identity.
 
 ## Concept
 
-So in the previous scenario, we need a class to defines `attribute` and `action(method)`. a **structure** primarily focuses on **grouping** and **organizing** data. It is used to create **objects** that aggregate multiple variables under a `single class`.
-Each object created from the class will have its own set of attribute values, and the methods defined in the class can be invoked on individual objects to perform specific actions.
+Object can be anything like pen,computer, etc. If there are objects then they will have Attribute and action(methods),
+which will differentiate one object from other.
+
+ - Attributes: the object what properties it has.
+ - Methods: what the object does.
+   
+So object encapsulate both attributes and methods related to that entity, allowing for structured and modular code organization.
 
 ## Example
 
-
-
+object: car
+attribute: color, brand, weight, model.
+action: break, accelerate, turn, change gears.
 
 
 ## Practice
