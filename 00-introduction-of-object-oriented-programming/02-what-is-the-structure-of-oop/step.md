@@ -14,8 +14,8 @@ Object encapsulate both attributes and methods related to that entity, allowing 
 ## Example
 ```
 object: car
-attribute: color, brand, weight, model.
-action: break, accelerate, turn, change gears.
+attribute: color, brand, model.
+action: break, accelerate, turn.
 ```
 
 ## Practice
