@@ -20,4 +20,4 @@ public class Number {
 
 ## Practice
 
-1- Create a new object, based on previous example, that return number 9.
+1- Create a new value secondNumber, based on previous example, that return number 9.
