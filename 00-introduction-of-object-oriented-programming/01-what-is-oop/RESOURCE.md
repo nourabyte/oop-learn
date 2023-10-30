@@ -1,6 +1,6 @@
 **Step 01: What is object oriented programming**
 
-For more information you can find all resources about **what is OOP**
+For more information you can find resource about **what is OOP**
 
 
 -  [Java: The Complete Reference, Twelfth Edition](https://pages.github.com/f) by Herbert Schildt
