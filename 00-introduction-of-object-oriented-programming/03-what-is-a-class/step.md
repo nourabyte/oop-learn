@@ -9,9 +9,15 @@ of its types.
 
 ```java
 /* Create new class by using (class) keyword. */
-public class Number {
-   public int value = 10;
+public class Student {
+ /* 1. Attributes*/
+    public String name;
+    public int age;
+    public int gradeLevel;
+
+/* 2. Method */
+    public void attendence() {
+    }
 }
 ```
-
 ## Practice
