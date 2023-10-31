@@ -8,16 +8,18 @@ of its types.
 ## Example
 
 ```java
-/* Create new class by using (class) keyword. */
+/* 1. Create new class by using (class) keyword. */
 public class Student {
- /* 1. Attributes*/
+ /* 2. Attributes*/
     public String name;
     public int age;
     public int gradeLevel;
 
-/* 2. Method */
+/* 3. Method */
     public void attendence() {
     }
 }
 ```
 ## Practice
+1. Create a class called Car with the following attributes: brand, color and year.
+2. Create method named is turn.
