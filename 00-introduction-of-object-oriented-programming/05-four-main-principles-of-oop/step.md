@@ -1,4 +1,4 @@
-# Step 03: Four main Principles of object oriented programming
+# Step 0: Four main Principles of object oriented programming
 
 Think about your structure code in terms of objects, their attributes, and their behaviors. You can make the code flexible , extensible, reusable and easy to understand by using main concept of OOP.
 
