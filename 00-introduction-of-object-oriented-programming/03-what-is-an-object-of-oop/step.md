@@ -1,4 +1,4 @@
-# Step 02: What is an object in oop 
+# Step 03: What Is An Object In Object Oriented Programming 
 Let's imagine you are a student. As a student, you have specific attributes such as a student ID, name, and a list of courses. You can perform various actions related to these attributes, such as adding a course to your list or deleting a course. So every object have attribute and action(method).
 
 ## Concept
