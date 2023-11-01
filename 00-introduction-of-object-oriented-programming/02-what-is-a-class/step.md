@@ -1,4 +1,4 @@
-# Step 03: What Is A Class
+# Step 02: What Is A Class
 **Class** is a `blueprint` from which objects are created.
 
 ## Concept
