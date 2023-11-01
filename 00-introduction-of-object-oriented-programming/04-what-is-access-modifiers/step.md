@@ -1,6 +1,7 @@
 # Step 04: What Is Access Modifiers
 `Access modifier` is the **accessibility or visibility** of class, method, variable within a program.
 ## Concept
+`access modifiers` are **keywords**, you can **control** the visibility and accessibility of your code, promoting modularization, information hiding, and secure interactions between different parts of your program.
 1. `Public` is accessible from **anywhere** in the program.
    
 3. `Private` is accessible within the **same class only**.
@@ -11,6 +12,35 @@
    - When no access modifier is specified (i.e., no public, private, or protected), the default access modifier is applied.
 
 ## Example
+```java
+/* Public */
+public class Person {
+    public String name;
+    public void greet() {
+        System.out.println("Hello, I'm " + name + "!");  }}
+```
+```java
+/* Private */
+public class BankAccount {
+    private double balance;
+    private void deductFees() {
+      }}
+```
+```java
+/* Protected */
+public class Animal {
+    protected String name;
+    protected void sleep() {
+        System.out.println("The animal is sleeping.");  }}
+```
 
+```java
+/* Default */
+class Person {
+    String name;
+    void greet() {
+        System.out.println("Hello, I'm " + name + "!");  }}
+```
+`
 
 ## Practice
