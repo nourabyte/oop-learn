@@ -12,28 +12,28 @@
    - When no access modifier is specified (i.e., no public, private, or protected), the default access modifier is applied.
 
 ## Example
+- Public
 ```java
-/* Public */
 public class Person {
     public String name;
     public void greet() {
         System.out.println("Hello, I'm " + name + "!");  }}
 ```
+- Private 
 ```java
-/* Private */
 public class BankAccount {
     private double balance;
     private void deductFees() {
       }}
 ```
+- Protected
 ```java
-/* Protected */
 public class Animal {
     protected String name;
     protected void sleep() {
         System.out.println("The animal is sleeping.");  }}
 ```
-
+- Default
 ```java
 /* Default */
 class Person {
@@ -41,6 +41,7 @@ class Person {
     void greet() {
         System.out.println("Hello, I'm " + name + "!");  }}
 ```
-`
+
 
 ## Practice
+1. How many **public** classes a .java file can have?
