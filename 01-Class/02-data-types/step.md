@@ -3,9 +3,20 @@ Each **variable** has a specific `data type`, which indicates which type of data
 ## Concept
 `Data type` defines the **size and type** of information stored in a `variable`. Data types help in memory management. It helps to assign the **memory** depending upon the type of data type.
 
-two main categories of data types:
-   1. primitive types.
-   2.  non-primitive types.
+
+| Type      | Size |Example|
+| :---      |    :----:   |          ---: |
+| Byte      | 8 bits  |         |
+| Boolean   | 1 bit  |   True , Fulse |
+| Short     |  16 bits |         |     
+|  Int      |      32 bits |  -1,-2,0,1,2 | 
+| Long      |       64 bits| 9,036,775,807|    
+| Float     |      32 bits | 35.3, -2.34e | 
+| Double    |    64 bits   | 1.7e−308 to 1.7e+308| 
+
+      
+
+   3. non-primitive types.
 
 ## Example
 
@@ -24,8 +35,6 @@ public class DataTypesExample {
         /* Non-primitive data types */
         String name = "John Doe";
         int[] numbers = {1, 2, 3, 4, 5};
-        MyClass myObject = new MyClass();
-        Color color = Color.RED;
 }}
 
 ```
