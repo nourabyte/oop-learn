@@ -42,4 +42,8 @@ public class DataTypesExample {
 
 
 ## Practice
-
+1. Add the correct data type for the following variables:
+   -  myage = 42;
+   -  myaccount = 16.6;
+   -  istrue = T;
+       
