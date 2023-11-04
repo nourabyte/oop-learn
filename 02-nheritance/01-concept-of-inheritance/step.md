@@ -1,4 +1,4 @@
-# Step 01:Concept Of Inheritance
+# Step 01: Concept Of Inheritance
 Creating new classes based on **existing ones**. A class that `inherits` from another `class` can reuse the **methods and fields of that class**
 
 ## Concept
@@ -40,4 +40,6 @@ public class Main {
     }}
 ```
 ## Practice
-
+1. Write a Java program to create a class called Shape with a method called getArea().
+2.  Create a subclass called Rectangle that overrides the getArea() method to calculate the area of a rectangle.
+   
