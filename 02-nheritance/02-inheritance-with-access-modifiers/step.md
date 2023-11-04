@@ -35,7 +35,7 @@ total = i+j;
 package pack1;
  class A
 {
-      
+   
     } 
 package pack2;
 class B extends A
