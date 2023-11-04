@@ -10,7 +10,24 @@ Determining the **visibility and accessibility** of members (fields, methods, an
 4. `Private` : a **superclas**s are **not inherited** by its **subclasses** and are **not accessible in the subclass**.
 
 ## Example
-
+```java
+//Private
+class A {
+  int i;
+  private int j; //private to A.
+  void setA (int x,int y){
+i = x;
+j = y;
+  }
+}
+class B extends A{
+double total;
+void sum(){
+total = i+j;
+// ERROR, j not accessible here
+  }
+}
+```
 ## Practice
 
 
