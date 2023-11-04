@@ -44,4 +44,4 @@ class Person {
 
 
 ## Practice
-1. How many **public** classes a .java file can have?
+1. How many **public** class a .java file can have?
