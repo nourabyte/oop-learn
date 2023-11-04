@@ -33,13 +33,9 @@ total = i+j;
 1. is the below code written correctly?
 ```java
 package pack1;
- class A
-{
-   
-    } 
+ class A{
+     } 
 package pack2;
-class B extends A
-{
-     
+class B extends A{     
     }
 ```
