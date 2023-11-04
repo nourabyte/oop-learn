@@ -30,12 +30,12 @@ class Cat extends Animal {
 public class Main {
     public static void main(String[] args) {
         Dog dog = new Dog();
-        dog.eat();      // Inherited from superclass Animal
-        dog.bark();     // Defined in subclass Dog
+        dog.eat();      /* Inherited from superclass Animal */
+        dog.bark();     /* Defined in subclass Dog */
 
         Cat cat = new Cat();
-        cat.eat();      // Inherited from superclass Animal
-        cat.meow();     // Defined in subclass Cat
+        cat.eat();      /* . Inherited from superclass Animal */
+        cat.meow();     /* . Defined in subclass Cat */
     }
 }
 
