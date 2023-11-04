@@ -8,7 +8,7 @@ So if Sedan **extends** Car and Car **extends** Vehicle, then Sedan is also **in
 
 ## Example
 ```java
-/*1. Vehicle class is the superclass*/
+/*1. Vehicle class is the superclass */
 public class Vehicle {
     public String manufacturer;
     public String color;
@@ -16,14 +16,14 @@ public Vehicle(String manufacturer, String color) {
         this.manufacturer = manufacturer;
         this.color = color;
 }
-/*3. Sedan subclass inherit all properties and method that veichle have*/
+/*2. Sedan subclass inherit all properties and method that veichle have */
 public class Car extends Vehicle {
    public String model;
     public Car(String manufacturer, String color, String model) {
         super(manufacturer, color);
         this.model = model;
     }
-/*3. Sedan subclass inherit all properties and method that car have*/
+/*3. Sedan subclass inherit all properties and method that car have */
 public class Sedan extends Car {
    public int numDoors;
     public Sedan(String manufacturer, String color, String model, int numDoors)
