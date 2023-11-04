@@ -24,10 +24,22 @@ class B extends A{
 double total;
 void sum(){
 total = i+j;
+
 // ERROR, j not accessible here
   }
 }
 ```
 ## Practice
-
-
+1. is the below code written correctly?
+```java
+package pack1;
+ class A
+{
+      
+    } 
+package pack2;
+class B extends A
+{
+     
+    }
+```
