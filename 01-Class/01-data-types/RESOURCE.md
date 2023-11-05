@@ -7,7 +7,7 @@ For more information you can find resource about **Data Type**
 This book is a guide to Java programming, covering various topics from basic syntax to advanced concepts. It serves as a valuable resource for both beginner and experienced **Java** developers.
 
 
-- [Data Type](https://www.youtube.com/watch?v=WQ7mvQFSmYc).(youtube)
+- [Data Type in java](https://www.youtube.com/watch?v=WQ7mvQFSmYc).(youtube)
 
 
 
