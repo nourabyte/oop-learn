@@ -13,11 +13,6 @@ Each **variable** has a specific `data type`, which indicates which type of data
 | Long      |       64 bits| 9,036,775,807|    
 | Float     |      32 bits | 35.3, -2.34e | 
 | Double    |    64 bits   | 1.7e−308 to 1.7e+308| 
-
-      
-
-   3. non-primitive types.
-
 ## Example
 
 ```java
