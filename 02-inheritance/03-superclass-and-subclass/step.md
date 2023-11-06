@@ -42,5 +42,4 @@ public class Main {
 
 ```
 ## Practice
-
-
+1- What keyword do you use in a class declaration to create a subclass?
