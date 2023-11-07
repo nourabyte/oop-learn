@@ -2,9 +2,8 @@
 **unique keyword** is a reference variable that is used to refer to parent class objects.
 
 ## Concept
-
-`Super` it is used to call superclass methods, and to access the superclass constructor.
-The most common use of the `super` keyword is to eliminate the confusion between **superclasses and subclasses** that have methods with the same name.
+`Super` keyword is used to refer to the **superclass constructor**, **superclass methods**, and **superclass variables**.
+It is often used in subclass code to invoke or access the **superclass** elements.
 - super with variables
 - super with methods
 - super with constructors
