@@ -49,7 +49,6 @@ class Test {
         Student s = new Student();
         s.display();  }
 }
-
 /* 3. super with constructors */
 class Person {
     Person()
