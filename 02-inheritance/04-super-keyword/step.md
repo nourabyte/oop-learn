@@ -73,11 +73,5 @@ class Test {
     }
 }
 ```
-
-
-
-
-
-
-
 ## Practice
+
