@@ -72,4 +72,4 @@ class Test {
 }
 ```
 ## Practice
-1. 
+1. Can we call super class methods from static methods of sub class?
