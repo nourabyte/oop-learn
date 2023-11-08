@@ -1,47 +1,14 @@
-# Step 04: What Is Access Modifiers
-`Access modifier` is the **accessibility or visibility** of class, method, variable within a program.
+# Step 04: What Is Methods
+Collection of instructions that performs a specific task.
 ## Concept
-`access modifiers` are **keywords**, you can **control** the visibility and accessibility of your code, promoting modularization, information hiding, and secure interactions between different parts of your program.
-1. `Public` is accessible from **anywhere** in the program.
+`Method` is a **block of code** that performs a specific task., we write a `method` once and use it many times, we do **not** require to write code again.
+- **Defining Method**: provides information about modifier,return type, name, parameter list(), 
+ and a body between braces, {}.
+  ```java
+  public double calculateAnswer(double wingSpan, int numberOfEngines,
+      double length, double grossTons) {} ```
+ - **Naming Method**: should be a verb in lowercase or a multi-word name that begins with a verb in lowercase, has a unique name within its class.
    
-3. `Private` is accessible within the **same class only**.
-   
-3. `Protected` is accessible within the **same class**, **subclasses**, and **same package.**
-   
-5. `Default` is accessible within the same package only.
-   - When no access modifier is specified (i.e., no public, private, or protected), the default access modifier is applied.
-
 ## Example
-- Public
-```java
-public class Person {
-    public String name;
-    public void greet() {
-        System.out.println("Hello, I'm " + name + "!");  }}
-```
-- Private 
-```java
-public class BankAccount {
-    private double balance;
-    private void deductFees() {
-      }}
-```
-- Protected
-```java
-public class Animal {
-    protected String name;
-    protected void sleep() {
-        System.out.println("The animal is sleeping.");  }}
-```
-- Default
-```java
-/* Default */
-class Person {
-    String name;
-    void greet() {
-        System.out.println("Hello, I'm " + name + "!");  }}
-```
-
 
 ## Practice
-1. How many **public** class a .java file can have?
