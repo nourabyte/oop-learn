@@ -51,3 +51,5 @@ class Main {
 ```
 
 ## Practice
+1. Write a Java method to compute the average of three numbers.
+the numbers is (25, 45, 65)
