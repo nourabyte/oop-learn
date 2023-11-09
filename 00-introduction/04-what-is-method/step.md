@@ -17,7 +17,37 @@ We write a **method** once and use it many times
 
 ## Example
 ```java
+class Main {
+  /* 1. method with no parameter */
+  public void display1() {
+    System.out.println("Method without parameter");
+  }
+  /* 2. method with single parameter */
+  public void display2(int a) {
+    System.out.println("Method with a single parameter: " + a);
+  }
+  /* 3. method takes two parameter */
+   public int addNumbers(int a, int b) {
+    int sum = a + b;
+    // return value
+    return sum;
+  }
 
+  public static void main(String[] args){
+    int num1 = 25;
+    int num2 = 15;
+    /* 3. create an object of Main */
+    Main obj = new Main();
+    /* 4. calling method with no parameter */
+    obj.display1();
+    /* 5. calling method with the single parameter */
+    obj.display2(24);
+    Main object = new Main();
+    /* 6. called the method by passing two arguments */
+   int result = object.addNumbers(num1, num2);
+    System.out.println("Sum is: " + result);
+  }
+}
 ```
 
 ## Practice
