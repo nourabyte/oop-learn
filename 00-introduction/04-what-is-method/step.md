@@ -16,5 +16,8 @@ We write a **method** once and use it many times
  - `Parameter list`: comma-separated list of the **input parameters is defined**, preceded by their data type, if there are no parameters, you must use **empty parentheses ()**.  It is **optional** in syntax.
 
 ## Example
+```java
+
+```
 
 ## Practice
