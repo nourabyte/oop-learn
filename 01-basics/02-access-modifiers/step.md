@@ -1,7 +1,7 @@
 # Step 04: What Is Access Modifiers
 `Access modifier` is the accessibility or visibility of **class, method, variable** within a program.
 ## Concept
-access modifiers are keywords, you can control the visibility and accessibility of your code, promoting modularization, information hiding, and secure interactions between different parts of your program.
+access modifiers are **keywords**, you can control the visibility and accessibility of your code, promoting modularization, information hiding, and secure interactions between different parts of your program.
 1. Public is accessible from anywhere in the program. 
 2. Private is accessible within the same class only. 
 3. Protected is accessible within the same class, subclasses, and same package. 
