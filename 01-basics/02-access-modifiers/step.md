@@ -8,6 +8,7 @@ access modifiers are **keywords**, you can control the visibility and access
 4. Default is accessible within the same package only.
     * When no access modifier is specified (i.e., no public, private, or protected), the default access modifier is applied.
 ## Example
+```java
 * Public
 public class Person {
     public String name;
@@ -32,6 +33,6 @@ class Person {
     String name;
     void greet() {
         System.out.println("Hello, I'm " + name + "!");  }}
-
+```
 ## Practice
 1. How many public class a .java file can have?
