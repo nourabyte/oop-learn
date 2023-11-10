@@ -16,6 +16,26 @@ if we declare a variable static, **all objects of the class share the same stati
 
 ## Example
 ```java
+public class SimpleStaticExample {
+    private static int instanceCount = 0; // static variable
 
+    public SimpleStaticExample() {
+        instanceCount++; // Increment the instance count each time a new object is created
+    }
+
+    public static int getInstanceCount() { // static method
+        return instanceCount;
+    }
+
+    public static void main(String[] args) {
+        SimpleStaticExample obj1 = new SimpleStaticExample();
+        SimpleStaticExample obj2 = new SimpleStaticExample();
+        SimpleStaticExample obj3 = new SimpleStaticExample();
+
+        System.out.println("Instance Count: " + SimpleStaticExample.getInstanceCount()); // Output: Instance Count: 3
+    }
+}
+```
 
 ## Practice
+1. Can we Overload static method?
