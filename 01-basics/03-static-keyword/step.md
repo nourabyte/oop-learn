@@ -5,29 +5,11 @@ When a member is declared `static` it can be accessed **before any objects of it
 `Static` means When you **create an object or instance** for a class, each object will have its own **copy** of the members such as variables and methods.
 * `Static variable` :
 if we declare a variable static, **all objects of the class share the same static variable** It is because like static methods, static variables are also associated with the class, and we don't need to create objects of the class to access the static variables.
-
 ```java
-class Test {
-   /* 1. static variable */
    static int max = 10;
-   /* 2. non-static variable */
-   int min = 5;
-}
-public class Main {
-   public static void main(String[] args) {
-       Test obj = new Test();
-       /* 3. access the non-static variable */
-       System.out.println("min + 1 = " + (obj.min + 1));
-  
-       /* 4. access the static variable */
-       System.out.println("max + 1 = " + (Test.max + 1));
-   }}
 ```
-
-* `Static method` :
-
-
-
+* `Static method` : can be accessed directly using the class name, without the need for an instance of the class like
+   `ClassName.staticMethod()`, and are not associated with any specific instance of a class, they cannot directly access non-static (instance) variables or methods. They can only access other static members (variables or methods) within the same class.
 
 ## Example
 
