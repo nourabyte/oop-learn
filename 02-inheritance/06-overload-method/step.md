@@ -38,3 +38,4 @@ public class Sum {
 
 ## Practice
 
+1. Can overloaded methods have different return types?
