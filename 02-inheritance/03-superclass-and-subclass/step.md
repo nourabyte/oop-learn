@@ -8,7 +8,7 @@ It is also referred to **parent class or base class**. A `superclass` defines co
 
 >Subclass: a subclass is a class that inherits from a superclass.
 
-is the **child class or derived class**. A `subclass` **extends** the **functionality of the superclass** by **adding** its own unique properties, methods, and behaviors. It can also override or modify the inherited members from the superclass.
+is the **child class or derived class**. A `subclass extends` the **functionality of the superclass** by **adding** its own unique properties, methods, and behaviors. It can also override or modify the inherited members from the superclass.
 
 ## Example
 ```java
