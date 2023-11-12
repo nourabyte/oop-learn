@@ -24,5 +24,3 @@
 4. Super Keyword.
 5. Override Method.
 6. Overload Method.
-7. Final Keyword.
-8. 
