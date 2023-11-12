@@ -17,7 +17,6 @@
 7. setter()
 8. getter()
 
-
 ## Inheritance
 1. Concept of Inheritance.
 2. Inheritance with Access Modifiers.
