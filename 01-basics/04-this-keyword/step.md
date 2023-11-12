@@ -1,14 +1,12 @@
 # Step 04: This Keyword
-Keyword tells us about the behaviour and state of an object or instance related to the class.
-
+Keyword about the behaviour and state of an object or instance related to the class.
 ## Concept
-`This` refers to the current **instance/object** in a **method or constructor**. It’s most common use is to discard the confusion between class **attributes and parameters with the same name**.
+`This` reference to the current **instance/object** in a **method or constructor**. It’s most common use is to discard the confusion between class **attributes and parameters with the same name**.
 
-* This() can be used to invoke the current class constructor.
-* This can be used to return the current class object/instance from the function/method
-* This can be used to refer to the current class object variable.
-* It can also be passed as an argument in the function/method call.
-* This can be used to invoke current class method (implicitly). 
+you can use this to access other methods or fields within the same object. It helps distinguish between local variables and instance variables when they have the same name.
+
+this keyword allows objects to refer to themselves, access their own members, differentiate between local and instance variables, and enable constructor chaining. 
+It's a way for objects to talk about themselves and work with their own properties and behavior.
 
 ## Example
 
