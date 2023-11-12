@@ -4,21 +4,12 @@ Keyword tells us about the behaviour and state of an object or instance related 
 ## Concept
 `This` refers to the current **instance/object** in a **method or constructor**. It’s most common use is to discard the confusion between class **attributes and parameters with the same name**.
 
-1. **Accessing Other Methods and Fields**:
-   * this keyword can be used to invoke other methods or access other fields within the same object.
-   * It allows you to call other instance methods or access instance variables directly.
- 
- ```java    
-public class Person {
-    private String name;
-    public void printName() {
-        System.out.println("Name: " + this.getName()); 
-    }
-    public String getName() {
-        return this.name;
-    }
-} 
-```
+* This() can be used to invoke the current class constructor.
+* This can be used to return the current class object/instance from the function/method
+* This can be used to refer to the current class object variable.
+* It can also be passed as an argument in the function/method call.
+* This can be used to invoke current class method (implicitly). 
+
 ## Example
 
 
